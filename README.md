@@ -9,5 +9,13 @@
 - By making an attribute private we can only access the private attributes only through methods within the class 
 these are called getters and setters
 
+# In the code
 
+- Employee class was created 
+- Encapsulation was used to ensure 'age' could not be accessed from outside of the class
+- This made it private to Employee class 
 
+Benefits
+- Reduces system complexity
+- Increases robustness
+- Protects data from outside sources
