@@ -2,7 +2,7 @@
 
 - Involves making an attribute private
 
-- Use __ at the front of attribute to make it private 
+- Use __ at the front of attribute to make it  a hidden method
 
 - Making an attribute private means it cannot be accesses from outside of the class in which it was created
 
